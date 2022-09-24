@@ -3,7 +3,7 @@
 
 }
 .container{
-	background-color: rgb(255, 255, 255);
+	background:linear-gradient(90deg, rgba(61,61,61,1) 0%, rgba(107,107,107,1) 36%, rgba(48,48,48,1) 97%);
 }
 #header{  
 
@@ -13,12 +13,12 @@
 	
 }
 #menu{
-	background-color: #367cd8;
+	background-color:linear-gradient(90deg, rgba(61,61,61,1) 0%, rgba(107,107,107,1) 36%, rgba(48,48,48,1) 97%);
 	justify-content: center;
 }
 .nav-iteam{
 	padding: 0.1rem;
-	background-color: rgb(255, 255, 255);
+	background-color: #373737;
 }
 body, html{
 	margin:0px;
